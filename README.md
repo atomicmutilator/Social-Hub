@@ -1,3 +1,2 @@
 # Social-Hub Facebook clone. jason hambrick
-# It's ya boi
- teg]stingdfasdf
+# Everyone is good to go for github
